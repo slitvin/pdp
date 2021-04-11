@@ -1,6 +1,7 @@
 # Personal Development Plan
 
-Must:
+## Must
+
 1. Write valid HTML5 (https://validator.w3.org/)
 2. CSS: How to align div at center of parent, both vertically and horizontally, 
 3. CSS: Difference between 50% of left / top and translateX / translate Y, 
@@ -20,7 +21,8 @@ Must:
 17. Cookie vs Local storage vs Session storage (https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
 18. Typescript (https://www.youtube.com/watch?v=nyIpDs2DJ_c , https://www.youtube.com/watch?v=7NU6K4170As or official handbook: https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
-Desirable:
+## Desirable
+
 1. Javascript: Read all Part #2 from https://learn.javascript.ru/
 2. React: Virtual DOM Concept (https://reactjs.org/docs/faq-internals.html)
 3. React: Code splitting: (https://reactjs.org/docs/code-splitting.html)
@@ -32,7 +34,8 @@ Desirable:
 9. Debounce vs Throttle (https://css-tricks.com/debouncing-throttling-explained-examples/)
 10. How to setup Eslint
 
-To become a good programmer:
+## To become a good programmer
+
 1. Javascript: Read all Part #3 from https://learn.javascript.ru/
 2. React: Integration with other libs (https://reactjs.org/docs/integrating-with-other-libraries.html)
 3. React: JSX (https://reactjs.org/docs/jsx-in-depth.html)
