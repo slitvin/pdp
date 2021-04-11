@@ -1,6 +1,6 @@
 # Personal Development Plan
 
-## Must
+## Must know
 
 1. Write valid HTML5. [Validator](https://validator.w3.org/)
 2. CSS: How to align div at center of parent, both vertically and horizontally, 
@@ -21,7 +21,7 @@
 17. [Cookie vs Local storage vs Session storage](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
 18. Typescript: [Official Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) [RU Video #1](https://www.youtube.com/watch?v=nyIpDs2DJ_c), [RU Video #2](https://www.youtube.com/watch?v=7NU6K4170As)
 
-## Desirable
+## Desirable to know
 
 1. Javascript: Read all Part #2 [learn.javascript](https://learn.javascript.ru/)
 2. React: [Virtual DOM Concept](https://reactjs.org/docs/faq-internals.html)
