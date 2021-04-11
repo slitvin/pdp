@@ -1,7 +1,5 @@
 # Personal Development Plan
 
-Version 1.0
-
 ## Must
 
 1. Write valid HTML5. [Validator](https://validator.w3.org/)
