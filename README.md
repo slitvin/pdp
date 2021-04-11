@@ -1,7 +1,5 @@
 # Personal Development Plan
 
-PDP v1.0
-
 Must:
 1. Write valid HTML5 (https://validator.w3.org/)
 2. CSS: How to align div at center of parent, both vertically and horizontally, 
