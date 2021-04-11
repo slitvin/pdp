@@ -52,3 +52,4 @@ Version 1.0
 12. How Webpack and loaders works, create config from scratch
 13. [Making web fast](https://web.dev/fast/)
 14. [How browser renders page](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
+15. Building own charts with [d3.js](https://observablehq.com/@d3/learn-d3)
