@@ -44,7 +44,7 @@ Version 1.0
 4. React: [Performance](https://reactjs.org/docs/optimizing-performance.html)
 5. React: [Testing library](https://testing-library.com/docs/react-testing-library/intro/)
 6. React: [Application state management](https://kentcdodds.com/blog/application-state-management-with-react)
-7. GET vs POST
+7. [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
 8. [SOLID](https://habr.com/ru/company/productivity_inside/blog/505430/)
 9. How to animate SVG with CSS / JS
 10. [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
