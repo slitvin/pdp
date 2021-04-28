@@ -3,8 +3,8 @@
 ## Level 1 (basic)
 
 1. Write valid HTML5. [Validator](https://validator.w3.org/)
-2. CSS: How to align div at center of parent, both vertically and horizontally, 
-3. CSS: Difference between 50% of left / top and translateX / translateY, 
+2. CSS: How to align div at center of parent, both vertically and horizontally
+3. CSS: Difference between 50% of left / top and translateX / translateY
 4. CSS: [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 5. CSS: [Grids](https://css-tricks.com/snippets/css/complete-guide-grid/)
 6. CSS: Animations [Article #1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations), [Article #2](https://thoughtbot.com/blog/css-animation-for-beginners)
