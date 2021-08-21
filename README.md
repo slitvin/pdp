@@ -26,6 +26,9 @@
 16. 🔵 [Hooks](https://reactjs.org/docs/hooks-intro.html)
 17. 🔴 [Cookie vs Local storage vs Session storage](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
 18. 🟡 Typescript: [Official Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) [RU Video #1](https://www.youtube.com/watch?v=nyIpDs2DJ_c), [RU Video #2](https://www.youtube.com/watch?v=7NU6K4170As)
+19. ⚪️ [CSS Modules](https://github.com/css-modules/css-modules)
+10. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
+21. 🔴 [REST API](https://restfulapi.net/)
 
 ## 🥈 Stage 2
 
@@ -40,6 +43,8 @@
 9. 🔴 [Debounce vs Throttle](https://css-tricks.com/debouncing-throttling-explained-examples/)
 10. 🔴 [Setup eslint](https://eslint.org/docs/user-guide/getting-started)
 11. 🔴 Publishing own code to npm / github registry: [React components to npm](https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/), [Github Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages)
+12. 🔴 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web): SPA vs SSR vs SSG
+13. 🔴 [Rollup](https://rollupjs.org/guide/en/)
 
 ## 🥇 Stage 1
 
@@ -49,13 +54,29 @@
 4. 🔵 [Performance](https://reactjs.org/docs/optimizing-performance.html)
 5. 🔵 [Testing library](https://testing-library.com/docs/react-testing-library/intro/)
 6. 🔵 [Application state management](https://kentcdodds.com/blog/application-state-management-with-react)
-7. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
-8. 🔴 [SOLID](https://habr.com/ru/company/productivity_inside/blog/505430/)
-9. ⚪️ How to animate SVG with CSS / JS
-10. 🔴 [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
-11. 🟡 [Eslint configuring](https://eslint.org/docs/user-guide/configuring/)
-12. 🟡 [How Webpack works](https://webpack.js.org/concepts/), [Webpack configuring](https://webpack.js.org/configuration/)
-13. 🔴 [Making web fast](https://web.dev/fast/)
-14. 🔴 [How browser renders page](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
-15. 🟡 [Building own charts with d3.js](https://observablehq.com/@d3/learn-d3)
-16. 🟡 Monads in Javascript: [Article #1](https://dev.to/rgeraldporter/building-expressive-monads-in-javascript-introduction-23b), [Article #2](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+7. 🔴 [SOLID](https://habr.com/ru/company/productivity_inside/blog/505430/)
+8. ⚪️ How to animate SVG with CSS / JS
+9. 🔴 [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
+10. 🟡 [Eslint configuring](https://eslint.org/docs/user-guide/configuring/)
+11. 🟡 [How Webpack works](https://webpack.js.org/concepts/), [Webpack configuring](https://webpack.js.org/configuration/)
+12. 🔴 [Making web fast](https://web.dev/fast/)
+13. 🔴 [How browser renders page](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
+14. 🟡 [Building own charts with d3.js](https://observablehq.com/@d3/learn-d3)
+15. 🟡 Monads in Javascript: [Article #1](https://dev.to/rgeraldporter/building-expressive-monads-in-javascript-introduction-23b), [Article #2](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+16. 🔴 [GraphQL](https://graphql.org/) and [Apollo Server / Client](https://www.apollographql.com/)
+17. 🟡 State machine: [XState](https://xstate.js.org/)
+
+## Frontend stack
+
+1. [React](https://reactjs.org/)
+2. [CSS Modules](https://github.com/css-modules/css-modules)
+3. [Typescript](https://www.typescriptlang.org/)
+4. [Create React App](https://github.com/facebook/create-react-app) for SPA without SSR and SSG
+5. [Next.js](https://nextjs.org/) for SPA with SSR or SSG
+6. [SWR](https://swr.vercel.app/) for REST API
+7. [Apollo Server / Client](https://www.apollographql.com/) for GraphQL
+8. [Redux Toolkit](https://redux-toolkit.js.org/) for projects with global store
+9. [React Context](https://reactjs.org/docs/context.html) for projects without global store
+10. [XState](https://xstate.js.org/) for state machines
+11. [Testing library](https://testing-library.com/docs/react-testing-library/intro/) for tests
+12. [Playwright](https://playwright.dev/) for end to end tests
