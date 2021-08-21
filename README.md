@@ -65,6 +65,8 @@
 15. 🟡 Monads in Javascript: [Article #1](https://dev.to/rgeraldporter/building-expressive-monads-in-javascript-introduction-23b), [Article #2](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 16. 🔴 [GraphQL](https://graphql.org/) and [Apollo Server / Client](https://www.apollographql.com/)
 17. 🟡 State machine: [XState](https://xstate.js.org/)
+18. 🔵 Frontend security: [Article #1](https://www.shopify.com/partners/blog/website-security), [Article #2](https://medium.com/@baphemot/understanding-react-frontend-security-4963d35feea7)
+19. 🟢 Node.js security: [Article #1](https://blog.sqreen.com/nodejs-security-best-practices/), [Article #2](https://expressjs.com/en/advanced/best-practice-security.html)
 
 ## Frontend stack
 
