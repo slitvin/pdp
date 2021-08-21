@@ -6,7 +6,7 @@
 🟢 - Node.js (backend)   
 🔴 - Other (frontend and backend)
 
-## 🥉 Stage 3 
+## 🥉 Stage bronze 
 
 1. ⚪️ Write valid HTML5. [Validator](https://validator.w3.org/)
 2. ⚪️ How to align div at center of parent, both vertically and horizontally
@@ -30,7 +30,7 @@
 10. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
 21. 🔴 [REST API](https://restfulapi.net/)
 
-## 🥈 Stage 2
+## 🥈 Stage silver
 
 1. 🟡 Read all Part #2 [learn.javascript](https://learn.javascript.ru/)
 2. 🔵 [Virtual DOM Concept](https://reactjs.org/docs/faq-internals.html)
@@ -46,7 +46,7 @@
 12. 🔴 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web): SPA vs SSR vs SSG
 13. 🔴 [Rollup](https://rollupjs.org/guide/en/)
 
-## 🥇 Stage 1
+## 🥇 Stage gold
 
 1. 🟡 Read all Part #3 from [learn.javascript](https://learn.javascript.ru/)
 2. 🔵 [Integration with other libs](https://reactjs.org/docs/integrating-with-other-libraries.html)
