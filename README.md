@@ -80,3 +80,4 @@
 10. [XState](https://xstate.js.org/) for state machines
 11. [Testing library](https://testing-library.com/docs/react-testing-library/intro/) for tests
 12. [Playwright](https://playwright.dev/) for end to end tests
+13. [Eslint](https://eslint.org/) as code linter
