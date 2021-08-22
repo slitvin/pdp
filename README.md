@@ -110,3 +110,4 @@
 4. Databases: PostgreSQL, Redis, MongoDB
 5. Docker
 6. [Passport.js](http://www.passportjs.org/) for auth
+7. [Eslint](https://eslint.org/) for code linter
