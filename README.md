@@ -29,6 +29,13 @@
 19. ⚪️ [CSS Modules](https://github.com/css-modules/css-modules)
 10. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
 21. 🔴 [REST API](https://restfulapi.net/)
+22. 🟢 [What happens when you type a URL in the browser and press enter](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+23. 🟢 [Node.js tutorial](https://nodejs.dev/learn/introduction-to-nodejs)
+24. 🟢 [Json Web Tokens](https://www.youtube.com/watch?v=vQldMjSJ6-w&t=1s&ab_channel=JavaScript.Ninja)
+25. 🟢 [Session Management in Node.js](https://developer.okta.com/blog/2021/06/07/session-mgmt-node)
+26. 🟢 [.env](https://github.com/motdotla/dotenv)
+27. 🟢 [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+28. 🟢 [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
 
 ## 🥈 Stage silver
 
@@ -45,6 +52,10 @@
 11. 🔴 Publishing own code to npm / github registry: [React components to npm](https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/), [Github Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages)
 12. 🔴 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web): SPA vs SSR vs SSG
 13. 🔴 [Rollup](https://rollupjs.org/guide/en/)
+14. 🟢 [Are Node.js modules singletons?](https://medium.com/@lazlojuly/are-node-js-modules-singletons-764ae97519af)
+15. 🟢 [Node.js module.exports vs. exports](https://medium.com/free-code-camp/node-js-module-exports-vs-exports-ec7e254d63ac)
+16. 🟢 [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
+17. 🟢 [Description of the database normalization basics](https://docs.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description)
 
 ## 🥇 Stage gold
 
@@ -67,6 +78,9 @@
 17. 🟡 State machine: [XState](https://xstate.js.org/)
 18. 🔵 Frontend security: [Article #1](https://www.shopify.com/partners/blog/website-security), [Article #2](https://medium.com/@baphemot/understanding-react-frontend-security-4963d35feea7)
 19. 🟢 Node.js security: [Article #1](https://blog.sqreen.com/nodejs-security-best-practices/), [Article #2 (express.js)](https://expressjs.com/en/advanced/best-practice-security.html)
+20. 🟢 [Design patterns](https://refactoring.guru/ru/design-patterns)
+21. 🟢 [How HTTPS works](https://howhttps.works/)
+22. 🟢 [General Responsibility Assignment Software Patterns](https://www.youtube.com/watch?v=ExauFjYV_lQ&ab_channel=TimurShemsedinov)
 
 ## Frontend stack
 
@@ -83,3 +97,11 @@
 11. [Testing library](https://testing-library.com/docs/react-testing-library/intro/) for tests
 12. [Playwright](https://playwright.dev/) for end to end tests
 13. [Eslint](https://eslint.org/) for code linter
+
+## Backend stack
+
+1. [Typescript](https://www.typescriptlang.org/)
+2. [NestJS](https://nestjs.com/) (or express.js for simple apps)
+3. [TypeORM](https://typeorm.io/) or [Prisma ORM](https://www.prisma.io/)
+4. Databases: PostgreSQL, Redis, MongoDB
+5. Docker
