@@ -84,6 +84,7 @@
 20. 🟢 [Design patterns](https://refactoring.guru/ru/design-patterns)
 21. 🟢 [How HTTPS works](https://howhttps.works/)
 22. 🟢 [General Responsibility Assignment Software Patterns](https://www.youtube.com/watch?v=ExauFjYV_lQ&ab_channel=TimurShemsedinov)
+23. 🟢 [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs/)
 
 ## Frontend stack
 
