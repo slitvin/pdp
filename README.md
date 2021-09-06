@@ -85,6 +85,8 @@
 21. 🟢 [How HTTPS works](https://howhttps.works/)
 22. 🟢 [General Responsibility Assignment Software Patterns](https://www.youtube.com/watch?v=ExauFjYV_lQ&ab_channel=TimurShemsedinov)
 23. 🟢 [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs/)
+24. 🟢 [Message Brokers](https://tsh.io/blog/message-broker/)
+25. 🟢 [Node.js debugging](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 
 ## Frontend stack
 
@@ -110,5 +112,9 @@
 3. [TypeORM](https://typeorm.io/) or [Prisma ORM](https://www.prisma.io/)
 4. Databases: PostgreSQL, Redis, MongoDB
 5. Docker
-6. [Passport.js](http://www.passportjs.org/) for auth
+6. Authentication: [Passport.js](http://www.passportjs.org/) or [specifically for Nest.js](https://docs.nestjs.com/security/authentication)
 7. [Eslint](https://eslint.org/) for code linter
+
+## Tools
+1. 🟢 [Postman](https://www.postman.com/) (widely used for backend development and debugging)
+2. 🟢 [pgAdmin](https://www.pgadmin.org/) - visual representation of Postgres data
