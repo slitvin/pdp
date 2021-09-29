@@ -59,7 +59,7 @@
 17. 🟢 [Description of the database normalization basics](https://docs.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description)
 18. 🟡 [Websockets](https://learn.javascript.ru/websocket)
 19. 🟡 [Server-sent events](https://learn.javascript.ru/server-sent-events)
-20. 🔵 [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
+20. 🔵 [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311) [RU Article](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
 
 ## 🥇 Stage gold
 
