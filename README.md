@@ -46,7 +46,7 @@
 4. 🔵 [Forwarding refs](https://reactjs.org/docs/forwarding-refs.html)
 5. 🔵 [HOC](https://reactjs.org/docs/higher-order-components.html)
 6. 🔵 [Render props](https://reactjs.org/docs/render-props.html)
-7. 🔵 How to write custom hooks, [for example useTimeout](https://www.30secondsofcode.org/react/s/use-timeout)
+7. 🔵 How to write custom hooks, [for example useTimeout](https://usehooks-typescript.com/react-hook/use-timeout)
 8. 🔴 [PNG vs JPEG](https://web.dev/choose-the-right-image-format/)
 9. 🔴 [Debounce vs Throttle](https://css-tricks.com/debouncing-throttling-explained-examples/)
 10. 🔴 [Setup eslint](https://eslint.org/docs/user-guide/getting-started)
