@@ -1,9 +1,9 @@
 # Personal Development Plan
 
-⚪️ - Frontend
+⚪️ - Frontend  
 🟡 - Javascript (frontend and backend)  
-🔵 - React
-🟢 - Node.js (backend)   
+🔵 - React  
+🟢 - Node.js (backend)  
 🔴 - Other (frontend and backend)
 
 ## 🥉 Stage bronze 
