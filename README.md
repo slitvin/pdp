@@ -1,6 +1,6 @@
 # Personal Development Plan
 
-⚪️ - HTML / CSS / Browser (frontend) 
+⚪️ - HTML / CSS / Browser (frontend)  
 🟡 - Javascript (frontend and backend)  
 🔵 - React (frontend)  
 🟢 - Node.js (backend)   
