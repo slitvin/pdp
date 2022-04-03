@@ -25,19 +25,20 @@
 15. 🔵 [Refs](https://reactjs.org/docs/refs-and-the-dom.html)
 16. 🔵 [Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
 17. 🔵 [Hooks](https://reactjs.org/docs/hooks-intro.html)
-18. 🔴 [Cookie vs Local storage vs Session storage](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
-19. 🟡 Typescript: [Official Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) [RU Video #1](https://www.youtube.com/watch?v=nyIpDs2DJ_c), [RU Video #2](https://www.youtube.com/watch?v=7NU6K4170As)
-20. ⚪️ [CSS Modules](https://github.com/css-modules/css-modules)
-21. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
-22. 🔴 [REST API](https://restfulapi.net/)
-23. 🟢 [What happens when you type a URL in the browser and press enter](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
-24. 🟢 [Node.js tutorial](https://nodejs.dev/learn/introduction-to-nodejs)
-25. 🟢 [User Authentication in Web Apps](https://www.youtube.com/watch?v=F-sFp_AvHc8&ab_channel=freeCodeCamp.org)
-26. 🟢 [Json Web Tokens](https://www.youtube.com/watch?v=vQldMjSJ6-w&t=1s&ab_channel=JavaScript.Ninja)
-27. 🟢 [Session Management in Node.js](https://developer.okta.com/blog/2021/06/07/session-mgmt-node)
-28. 🟢 [.env](https://github.com/motdotla/dotenv)
-29. 🟢 [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-30. 🟢 [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
+18. 🔵 [Basic understanding of React keys](https://twitter.com/dan_abramov/status/1415280176984907776)
+19. 🔴 [Cookie vs Local storage vs Session storage](https://dev.to/sidbhanushali/cookies-vs-session-vs-local-storage-22ja)
+20. 🟡 Typescript: [Official Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) [RU Video #1](https://www.youtube.com/watch?v=nyIpDs2DJ_c), [RU Video #2](https://www.youtube.com/watch?v=7NU6K4170As)
+21. ⚪️ [CSS Modules](https://github.com/css-modules/css-modules)
+22. 🔴 [GET vs POST](https://javascript.plainenglish.io/get-vs-post-are-you-confident-about-the-differences-189562fac0a7)
+23. 🔴 [REST API](https://restfulapi.net/)
+24. 🟢 [What happens when you type a URL in the browser and press enter](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
+25. 🟢 [Node.js tutorial](https://nodejs.dev/learn/introduction-to-nodejs)
+26. 🟢 [User Authentication in Web Apps](https://www.youtube.com/watch?v=F-sFp_AvHc8&ab_channel=freeCodeCamp.org)
+27. 🟢 [Json Web Tokens](https://www.youtube.com/watch?v=vQldMjSJ6-w&t=1s&ab_channel=JavaScript.Ninja)
+28. 🟢 [Session Management in Node.js](https://developer.okta.com/blog/2021/06/07/session-mgmt-node)
+29. 🟢 [.env](https://github.com/motdotla/dotenv)
+30. 🟢 [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+31. 🟢 [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
 
 ## 🥈 Stage silver
 
@@ -61,6 +62,7 @@
 18. 🟡 [Websockets](https://learn.javascript.ru/websocket)
 19. 🟡 [Server-sent events](https://learn.javascript.ru/server-sent-events)
 20. 🔵 [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311), [RU Article](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
+21. 🔴 [Rendering Patterns]((https://www.patterns.dev/posts/))
 
 ## 🥇 Stage gold
 
@@ -70,7 +72,7 @@
 4. 🔵 [Performance](https://reactjs.org/docs/optimizing-performance.html)
 5. 🔵 [Testing library](https://testing-library.com/docs/react-testing-library/intro/)
 6. 🔵 [Application state management](https://kentcdodds.com/blog/application-state-management-with-react)
-7. 🔴 [SOLID](https://habr.com/ru/company/productivity_inside/blog/505430/)
+7. 🟢 [SOLID](https://habr.com/ru/company/productivity_inside/blog/505430/)
 8. ⚪️ How to animate SVG with CSS / JS
 9. 🔴 [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 10. 🟡 [Eslint configuring](https://eslint.org/docs/user-guide/configuring/)
@@ -90,6 +92,8 @@
 24. 🟢 [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs/)
 25. 🟢 [Message Brokers](https://tsh.io/blog/message-broker/)
 26. 🟢 [Node.js debugging](https://nodejs.org/en/docs/guides/debugging-getting-started/)
+27. 🔴 [Design Patterns](https://www.patterns.dev/posts/)
+28. 🔴 [Performance Patterns](https://www.patterns.dev/posts/)
 
 ## Frontend stack
 
